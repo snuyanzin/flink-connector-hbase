@@ -375,12 +375,6 @@ under the License.
 			</dependency>
 
 			<dependency>
-				<groupId>io.netty</groupId>
-				<artifactId>netty-all</artifactId>
-				<version>${netty.version}</version>
-			</dependency>
-
-			<dependency>
 				<groupId>commons-io</groupId>
 				<artifactId>commons-io</artifactId>
 				<version>${commons.io.version}</version>

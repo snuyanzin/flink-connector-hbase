@@ -63,11 +63,6 @@ under the License.
 			<optional>true</optional>
 		</dependency>
 
-		<dependency>
-			<groupId>io.netty</groupId>
-			<artifactId>netty-all</artifactId>
-		</dependency>
-
 		<!-- Tests -->
 		<dependency>
 			<groupId>org.apache.flink</groupId>
