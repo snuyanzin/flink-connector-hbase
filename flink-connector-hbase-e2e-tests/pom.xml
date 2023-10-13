@@ -173,7 +173,7 @@ under the License.
 						<artifactId>maven-surefire-plugin</artifactId>
 						<executions>
 							<execution>
-								<id>end-to-end-tests</id>
+								<id>integration-test</id>
 								<phase>integration-test</phase>
 								<goals>
 									<goal>test</goal>
